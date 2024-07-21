@@ -1,0 +1,27 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "samisams",
+    "database": "stock",
+    "host": "localhost",
+    "dialect": "postgres",
+    "schema": "stock_schema"
+  },
+  "test": {
+    "username": "your_test_username",
+    "password": "your_test_password",
+    "database": "your_test_database",
+    "host": "localhost",
+    "dialect": "postgres",
+    "schema": "stock_schema"
+  },
+  "production": {
+    "username": "your_production_username",
+    "password": "your_production_password",
+    "database": "your_production_database",
+    "host": "localhost",
+    "dialect": "postgres",
+    "schema": "stock_schema"
+  }
+}
+
